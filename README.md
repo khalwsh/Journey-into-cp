@@ -1,4 +1,8 @@
 # my-journey-into-cp
+
+
+cf_handle:Khalwsh https://codeforces.com/profile/Khalwsh
+
 //sorry for any mistakes in spilling
 i want to explain all from the beginging 
 how i entered the cse department?
