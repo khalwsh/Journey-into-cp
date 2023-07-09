@@ -1,4 +1,5 @@
 # my-journey-into-cp
+//sorry for any mistakes in spilling
 i want to explain all from the beginging 
 how i entered the cse department?
 in fact i wasn't even interested in computer science that much i was typically egyptian teenager that plays alot of video games.
